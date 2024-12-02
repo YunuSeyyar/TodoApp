@@ -3169,6 +3169,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.0",
+      "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0"
     ]
@@ -3224,6 +3225,10 @@
         "targetAlias": "net9.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[9.0.0, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[9.0.0, )"
           },
