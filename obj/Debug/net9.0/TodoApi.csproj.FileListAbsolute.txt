@@ -146,3 +146,4 @@ C:\C#\TodoList\obj\Debug\net9.0\refint\TodoApi.dll
 C:\C#\TodoList\obj\Debug\net9.0\TodoApi.pdb
 C:\C#\TodoList\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\C#\TodoList\obj\Debug\net9.0\ref\TodoApi.dll
+c:\C#\TodoList\obj\Debug\net9.0\TodoApi.sourcelink.json
