@@ -3181,11 +3181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\TodoList\\TodoApi.csproj",
+      "projectUniqueName": "C:\\C#\\TodoList\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "c:\\C#\\TodoList\\TodoApi.csproj",
+      "projectPath": "C:\\C#\\TodoList\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Yunus\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\TodoList\\obj\\",
+      "outputPath": "C:\\C#\\TodoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
